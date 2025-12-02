@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{
+		"model": "minecraft:block/dandelion"
+    },
+	{
+		"model": "minecraft:block/dandelion_big"
+    },
+	{
+		"model": "minecraft:block/dandelion_small"
+	}
+	]
+  }
+}

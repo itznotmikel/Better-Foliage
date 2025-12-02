@@ -1,0 +1,9 @@
+﻿{
+    "pack": {
+        "pack_format": 15,
+    "min_format": 15,
+    "max_format": 75,
+		"supported_formats": {"min_inclusive": 15, "max_inclusive": 75},
+    "description": "§7Improved foliage by \u00a7bitznotmikel"
+  }
+}

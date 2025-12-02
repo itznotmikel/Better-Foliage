@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/allium", "weight":1},
+	  "model": "minecraft:block/allium_double", "weight":2},
+	  "model": "minecraft:block/allium_triple", "weight":2 }
+    }
+  }
+}
